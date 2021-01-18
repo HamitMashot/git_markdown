@@ -1,0 +1,18 @@
+{
+  "FirstName" : "Hamit"
+  "LastName"  : "Mashot"
+}
+
+[
+{
+  "FirstName" : "Hamit"
+  "LastName"  : "Mashot"
+  "aget"   :11
+  "married"  : true
+},
+
+{
+  "FirstName" : "Hamit"
+  "LastName"  : "Mashot"
+}
+]
